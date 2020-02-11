@@ -10,7 +10,7 @@
 
 📚 [Git e Github para iniciantes | Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes)
 
-🖊️ [Atividade 0 - Git, GitHub e GitHub Classroom](https://classroom.github.com/a/qblWPg2c)
+🖊️ [Atividade 0 - Git, GitHub e GitHub Classroom](https://classroom.github.com/a/P8kM5X7g)
 
 ## Desktop e Cross-platform
 
