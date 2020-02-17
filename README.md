@@ -1,4 +1,4 @@
-# Dispositivos Móveis [IFPR|2020-1|TADS18]
+# Desenvolvimento de Aplicativo para Desktop [IFPR|2020-1|TADS]
 
 🎒 [Plano de Ensino da Disciplina](files/desktop-plano.pdf)
 
